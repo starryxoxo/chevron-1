@@ -1,0 +1,54 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+/*/release/
+
+# Local configuration files (contains SDK paths, etc.)
+local.properties
+
+# Android Studio / IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Build artifacts
+*.apk
+*.aar
+*.jar
+*.ap_
+*.dex
+
+# Log files
+*.log
+
+# Android Profiler captures
+captures/
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+cmake-build-debug/
+
+# Keystore files (NEVER commit these)
+*.jks
+*.keystore
+*.p12
+
+# Google Services configuration (often contains API keys)
+google-services.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# System/Backup files
+*~
+*.swp
+*.bak
+
+# Gradle-specific local files
+.gradle-app.setting
+user-config.gradle

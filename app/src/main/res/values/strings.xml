@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chevron Breadcrumbs</string>
+    <string name="grant_permissions">Step 1: Grant System Permissions</string>
+    <string name="service_status_enabled">Service: Enabled</string>
+    <string name="service_status_disabled">Service: Disabled (Click to Enable)</string>
+    <string name="horizontal_offset">Horizontal Offset (X): %1$dpx</string>
+    <string name="vertical_offset">Vertical Offset (Y): %1$dpx</string>
+    <string name="chevron_size">Chevron Size: %1$d</string>
+    <string name="transparency">Transparency: %1$d%%</string>
+    <string name="select_text_color">Select Text Color:</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_white">White</string>
+    <string name="color_black">Black</string>
+    <string name="color_green">Green</string>
+    <string name="stroke_size">Stroke Size: %1$.1ff</string>
+    <string name="manage_exclusions">Manage Excluded Apps</string>
+    <string name="exclusions_title">Excluded Apps</string>
+    <string name="disable_in_landscape">Disable in Landscape</string>
+    <string name="export_txt">Export .txt</string>
+    <string name="import_txt">Import .txt</string>
+    <string name="enable_swipe">Enable Swipe Navigation (Advanced)</string>
+</resources>
